@@ -12,3 +12,9 @@ void print_my_age(void)
 	printf("My age is 25\n");
 	return;
 }	
+
+void print_my_college(void)
+{
+	printf("My college is Menoufia\n");
+	return;
+}
